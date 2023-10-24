@@ -1,2 +1,3 @@
 # state_management_codelab1
  
+Hal yang saya dapatkan dari codelab ini yaitu Stateless widget statusnya tidak dapat diubah dalam widget itu sendiri. Nilai counter dalam widget tersebut sudah ditetapkan dan tidak dapat berubah saat berinteraksi dengan aplikasi. Sedangkan Stateful widget statusnya dapat diubah dan dapat diperbaharui di dalam widget tersebut. Hal tersebut dapat terjadi karena menggunakan metode SetState untuk memperbarui status dan membangun ulang widget. Saat tombol increment ditekan maka metode incrementCounter akan dipanggil yang nantinya akan memperbarui nilai dari counter.
